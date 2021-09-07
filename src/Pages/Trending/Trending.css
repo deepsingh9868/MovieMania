@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+.trending {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Limelight', cursive;
+  }
